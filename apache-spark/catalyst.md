@@ -2,8 +2,6 @@
 
 !["Catalyst Optimizer"](images/catalyst.png)
 
-![Catalyst Optimization Flow](https://i.imgur.com/bsGRmnT.png)
-
 The Catalyst optimizer is the integrated tool in Apache Spark that optimizes SQL queries or DataFrame operations, significantly improving performance, cost savings, and resource management of the distributed system.
 It consists of four main phases: Analysis, Logical Planning, Physical Planning, and Code Generation.
 
