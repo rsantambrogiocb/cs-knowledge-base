@@ -25,6 +25,7 @@ The repository is organized into topic-based directories, each containing markdo
 - [Apache Spark](apache-spark/README.md)
 - [Distributed Systems](distributed-systems/README.md)
 - [SQL](SQL/README.md)
+- [Python](python/README.md)
 
 ## License
 
