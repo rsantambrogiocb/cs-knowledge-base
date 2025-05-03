@@ -23,6 +23,7 @@ While this is primarily a personal knowledge repository, constructive feedback a
 The repository is organized into topic-based directories, each containing markdown files with relevant notes.
 
 - [Apache Spark](apache-spark/README.md)
+- [Distributed Systems](distributed-systems/README.md)
 
 ## License
 
